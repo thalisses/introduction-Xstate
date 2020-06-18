@@ -1,2 +1,1 @@
-# introduction-Xstate
-This repository use Xstate to create a machine and React App.
+Simple React App using Xstate

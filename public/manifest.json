@@ -1,0 +1,8 @@
+{
+  "short_name": "Xstate",
+  "name": "Create React App with Xstate",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
